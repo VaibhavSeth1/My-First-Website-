@@ -1,0 +1,5 @@
+Note:
+
+When installing our application, your device may display a warning that the file is harmful. This happens because our app is not uploaded to the Google Play Store. However, it is safe to install. You can tap on the "Install Anyway" button to proceed.
+
+Enjoy the SpicySizzle online food ordering application!
